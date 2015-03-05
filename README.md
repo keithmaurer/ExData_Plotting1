@@ -1,6 +1,6 @@
 ## Introduction:
 
-This is the first project from Coursera's "Exploratory Data Analysis" course, and is intended to demonstrate basic graphing abilities in the R programming language. Data has been provided, and several example charts are produced. Further, each of these charts have been produced in R's Base package, with no outside "packages" used.
+This is the first project from Coursera's "Exploratory Data Analysis" course, and is intended to demonstrate basic graphing abilities in the R programming language. Data has been provided, and several example charts are produced. Further, each of these charts have been produced in R's Base package, without any outside "packages" used.
 
 
 This project uses data from
@@ -34,6 +34,6 @@ Each of the plots can be run independently on the same data set. They each creat
 <ol>
 <li>The first plot is a histogram of "Active Power" over a two day period. Since sampling was done on an averaged minute by minute basis, this is a histogram of the number of minutes at each power intensity.</li>
 <li>This chart is a line chart of "Active power" over the time scale of two days.</li>
-<li>The third chart shows energy consumption for three areas of the house that have been sub-metered</li>
+<li>The third chart shows energy consumption for three "sub-metered" area of the house.</li>
 <li>The last collection of charts shows includes the first two, along with "Voltage" and "Reactive Power" readings over the same two day period. </li>
 </ol>
